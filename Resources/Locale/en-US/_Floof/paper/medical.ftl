@@ -1,4 +1,4 @@
-paperwork-header-medical = {"["}color=#5b97bc] ◥[bold]N[/bold]◣ [bold]MEDICAL[/bold][/color]
+paperwork-header-medical = {"["}color=#5b97bc] ◀[bold]FLLC[/bold]▶ [bold]MEDICAL[/bold][/color]
 paperwork-separator-medical = {"["}color=#5b97bc]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-medical-death-certificate =

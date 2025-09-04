@@ -1,4 +1,4 @@
-paperwork-header-service = {"["}color=#9fed58] ◥[bold]N[/bold]◣ [head=3][bold]BOTANY [/bold][/color][/head]
+paperwork-header-service = {"["}color=#9fed58] ◀[bold]FLLC[/bold]▶ [head=3][bold]BOTANY [/bold][/color][/head]
 paperwork-separator-service = {"["}color=#9fed58]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-service-botany-request =

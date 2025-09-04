@@ -1,1 +1,1 @@
-gun-legality-salvage = This weapon is licensed for use in planetary expeditions. It is unlawful to brandish this weapon aboard NanoTrasen stations, and may be confiscated by Security if removed from the station's Salvage Department.
+gun-legality-salvage = This weapon is licensed for use in planetary expeditions. It is unlawful to brandish this weapon aboard Floof Station LLC stations, and may be confiscated by Security if removed from the station's Salvage Department.

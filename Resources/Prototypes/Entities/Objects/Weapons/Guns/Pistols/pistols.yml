@@ -127,7 +127,7 @@
   parent: WeaponPistolViper
   id: WeaponPistolViperSecurity
   description: A small, easily concealable, but somewhat underpowered gun, produced by a bulk arms manufacturer now defunct for over a century.
-               Uses .35 auto ammo. The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               Uses .35 auto ammo. The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   suffix: Security Loadouts
   components:
   - type: GuideHelp
@@ -165,7 +165,7 @@
   parent: WeaponPistolViperNonLethal
   suffix: Non-lethal, SecurityLoadouts
   description: A small, easily concealable, but somewhat underpowered gun, produced by a bulk arms manufacturer now defunct for over a century.
-               Uses .35 auto ammo. The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               Uses .35 auto ammo. The serial number on the handguard marks this gun as belonging to Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: GuideHelp
     guides: [ SecurityWeapons ]
@@ -247,7 +247,7 @@
   parent: WeaponPistolMk58
   id: WeaponPistolMk58Security
   description: A cheap, ubiquitous sidearm, produced by a NanoTrasen subsidiary. Uses .35 auto ammo.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   suffix: Security Loadouts
   components:
   - type: GuideHelp
@@ -284,7 +284,7 @@
   parent: WeaponPistolMk58Nonlethal
   suffix: Non-lethal, Security Loadouts
   description: A cheap, ubiquitous sidearm, produced by a NanoTrasen subsidiary. Uses .35 auto ammo.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: GuideHelp
     guides: [ SecurityWeapons ]
@@ -339,7 +339,7 @@
   parent: WeaponPistolN1984
   id: WeaponPistolN1984Security # the spaces in description are for formatting.
   description: The sidearm of any self respecting officer.     Comes in .45 magnum, the lord's caliber.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   suffix: Security Loadouts
   components:
   - type: GuideHelp
@@ -377,7 +377,7 @@
   parent: WeaponPistolN1984NonLethal
   id: WeaponPistolN1984SecurityNonLethal
   description: The sidearm of any self respecting officer.     Comes in .45 magnum, the lord's caliber.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   suffix: Security Loadouts
   components:
   - type: GuideHelp

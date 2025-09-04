@@ -145,7 +145,7 @@
   name: antique Bulldog
   parent: WeaponShotgunBulldog
   id: WeaponShotgunBulldogHoS
-  description: This is a seemingly ordinary shotgun, no different from those issued as standard in the Republic of Biesel Navy. A close inspection reveals that this weapon's serial number is 000000013.
+  description: This is a seemingly ordinary shotgun, no different from those issued as standard in the Solarian Alliance's Navy. A close inspection reveals that this weapon's serial number is 000000013.
   components:
     - type: StealTarget
       stealGroup: HoSAntiqueWeapon

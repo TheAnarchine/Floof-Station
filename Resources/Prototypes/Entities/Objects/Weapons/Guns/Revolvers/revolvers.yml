@@ -97,7 +97,7 @@
   parent: WeaponRevolverDeckard
   id: WeaponRevolverDeckardSecurity
   description: A rare, custom-built revolver. Use when there is no time for Voight-Kampff test. Uses .45 magnum ammo.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: GuideHelp
     guides: [ SecurityWeapons ]
@@ -107,7 +107,7 @@
   parent: WeaponRevolverDeckardSecurity
   id: WeaponRevolverDeckardNonLethalSecurity
   description: A rare, custom-built revolver. Use when you need to spare the Replicants. Comes with .45 magnum rubber.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: RevolverAmmoProvider
     whitelist:
@@ -138,7 +138,7 @@
   parent: WeaponRevolverInspector
   id: WeaponRevolverInspectorSecurity
   description: A detective's best friend. Uses .45 magnum ammo.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: GuideHelp
     guides: [ SecurityWeapons ]
@@ -148,7 +148,7 @@
   parent: WeaponRevolverInspectorSecurity
   id: WeaponRevolverInspectorNonLethalSecurity
   description: A detective's best friend. Comes loaded with .45 magnum rubber.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: RevolverAmmoProvider
     whitelist:
@@ -163,7 +163,7 @@
   name: Mateba
   parent: BaseWeaponRevolver
   id: WeaponRevolverMateba
-  description: A distinctive revolver of an ancient Sol' design that was once seen as a rare collectible. It is in common manufacture by many companies in the Biesel Republic. Uses .45 magnum ammo.
+  description: A distinctive revolver of an ancient Sol' design that was once seen as a rare collectible. It is in common manufacture by many companies in the Solarian Alliance. Uses .45 magnum ammo.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Revolvers/mateba.rsi
@@ -200,7 +200,7 @@
   parent: WeaponRevolverPython
   id: WeaponRevolverPythonSecurity
   description: An iconic large-framed revolver of ancient Sol' design. It is commonly manufactured by many companies all over the colonies. Uses .45 magnum ammo.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: GuideHelp
     guides: [ SecurityWeapons ]
@@ -267,7 +267,7 @@
   id: WeaponRevolverArgentiSecurity
   categories: [ HideSpawnMenu ]   #floof
   description: The military grade Argenti Type 20 revolver. Manufactured by Silver Industries. While the design with expanded cylinder is quite ancient, the right gunslinger will know how to utilise it well. Uses .20 rifle ammo.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: GuideHelp
     guides: [ SecurityWeapons ]
@@ -278,7 +278,7 @@
   suffix: Non-lethal
   categories: [ HideSpawnMenu ]   #floof
   description: The military grade Argenti Type 20 revolver. Manufactured by Silver Industries. While the design with expanded cylinder is quite ancient, the right gunslinger will know how to utilise it well. Comes with .20 rubber rifle ammo.
-               The serial number on the handguard marks this gun as belonging to an NT Security Officer.
+               The serial number on the handguard marks this gun as belonging to a Floof Station LLC security officer. # In lore, security is now contracted through Floof Station LLC. 
   components:
   - type: RevolverAmmoProvider
     capacity: 8

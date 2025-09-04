@@ -1,4 +1,4 @@
-paperwork-header-justice = {"["}color=#6b2833] ◥[bold]N[/bold]◣ [head=3][bold]JUSTICE[/bold][/head][/color]
+paperwork-header-justice = {"["}color=#6b2833] ◀[bold]FLLC[/bold]▶ [head=3][bold]JUSTICE[/bold][/head][/color]
 paperwork-separator-justice = {"["}color=#6b2833]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 

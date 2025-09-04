@@ -1,4 +1,4 @@
-paperwork-header-hop = {"["}color=#1b67a5] ◥[bold]N[/bold]◣ [head=3][bold]HEAD OF PERSONNEL[/bold][/head][/color]
+paperwork-header-hop = {"["}color=#1b67a5] ◀[bold]FLLC[/bold]▶ [head=3][bold]HEAD OF PERSONNEL[/bold][/head][/color]
 paperwork-separator-hop = {"["}color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-hop-access-permit =
@@ -93,7 +93,7 @@ paperwork-hop-formal-complaint =
     {"["}italic]If other, please skip to Section C[/italic]
 
     Department of the Subject of Complaint:
-    \[  ] Sci     \[  ] Engi  \[  ] Service         \[  ] Cargo        \[  ] Grey
+    \[  ] Epi     \[  ] Engi  \[  ] Service         \[  ] Cargo        \[  ] Grey
     \[  ] Med  \[  ] Sec   \[  ] Command   \[  ] CentCom  \[  ] Other
 
     {"["}italic]If you are complaining about a person, please answer the following.[/italic]

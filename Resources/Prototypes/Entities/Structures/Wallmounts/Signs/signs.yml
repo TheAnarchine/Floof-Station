@@ -565,7 +565,7 @@
   parent: BaseSign
   id: SignHead
   name: head sign
-  description: An official sign indicating the dwellings of a Nanotrasen-certified head of department.
+  description: An official sign indicating the dwellings of a CentCom-certified head of department.
   components:
   - type: Sprite
     state: commander

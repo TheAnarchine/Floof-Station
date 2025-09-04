@@ -2,7 +2,7 @@
   parent: ClothingHeadBase
   id: ClothingHeadHatBeretNavy
   name: navy blue officer beret
-  description: A navy blue beret with the silver shield of the Nanotrasen security forces.
+  description: A navy blue beret with a silver shield, representing Floof Station LLC private security forces.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Head/Hats/beret_bso_navy.rsi
@@ -17,7 +17,7 @@
   parent: ClothingHeadBase
   id: ClothingHeadHatBeretOfficer
   name: officers beret
-  description: A black beret with the silver shield of the Nanotrasen security forces.
+  description: A black beret with a silver shield, representing Floof Station LLC private security forces.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Head/Hats/beret_bso_officer.rsi

@@ -14,7 +14,7 @@
   parent: ClothingShoesMilitaryBase
   id: ClothingShoesBootsJack
   name: jackboots
-  description: Nanotrasen-issue Security combat boots for combat scenarios or combat situations. All combat, all the time.
+  description: Military-grade Security combat boots for combat scenarios or combat situations. All combat, all the time.
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Boots/jackboots.rsi
@@ -30,7 +30,7 @@
   parent: ClothingShoesMilitaryBase
   id: ClothingShoesBootsJackFake
   name: jackboots
-  description: Civilian-grade replica of Nanotrasen Security combat boots. Looks the part but lacks the performance—ideal for the heated situations.
+  description: Civilian-grade replica of military style combat boots. Looks the part but lacks the performance—ideal for the heated situations.
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Boots/jackboots.rsi

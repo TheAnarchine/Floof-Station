@@ -1,4 +1,4 @@
-paperwork-header-logistics = {"["}color=#b18644] ◥[bold]N[/bold]◣ [head=3][bold]LOGISTICS [/bold][/color][/head]
+paperwork-header-logistics = {"["}color=#b18644] ◀[bold]FLLC[/bold]▶ [head=3][bold]LOGISTICS [/bold][/color][/head]
 paperwork-separator-logistics = {"["}color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-logistics-cargo-request =
@@ -9,7 +9,7 @@ paperwork-logistics-cargo-request =
         {"["}bold]SECTOR:[/bold] Floof Station
         {"["}bold]STATION:[/bold] NT14-NAME-XXX
         {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]QUARTERMASTER:[/bold]
+        {"["}bold]LOGISTICS OFFICER:[/bold]
         {"["}bold]RECIEVER:[/bold]
         {"["}bold]DEPARTMENT:[/bold]
     { paperwork-separator-logistics }
@@ -19,5 +19,5 @@ paperwork-logistics-cargo-request =
 
     {"["}color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]
 
-    • Quartermasters Signature:
-    • Quartermasters Stamp:
+    • Logistics Officer's Signature:
+    • Logistics Officer's Stamp:
