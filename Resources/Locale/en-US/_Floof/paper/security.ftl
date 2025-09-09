@@ -6,7 +6,7 @@ paperwork-security-arrest-report =
     { paperwork-separator-security }
         {"["}head=2]ARREST REPORT[/head]
     { paperwork-separator-security }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]HEAD OF SECURITY:[/bold]

@@ -6,7 +6,7 @@ paperwork-medical-death-certificate =
     { paperwork-separator-medical }
         {"["}head=2]DEATH CERTIFICATE[/head]
     { paperwork-separator-medical }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]CMO:[/bold]

@@ -6,7 +6,7 @@ paperwork-hop-access-permit =
     { paperwork-separator-hop }
         {"["}head=2]Access Permit [/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]PERSONS:[/bold]

@@ -7,7 +7,7 @@ paperwork-separator-epistemics-borgification-notice =
     { paperwork-separator-epistemics }
         {"["}head=2]BORGIFCATION NOTICE[/head]
     { paperwork-separator-epistemics }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]BORG APPLICATE:[/bold]

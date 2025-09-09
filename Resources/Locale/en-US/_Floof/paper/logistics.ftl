@@ -6,7 +6,7 @@ paperwork-logistics-cargo-request =
     { paperwork-separator-logistics }
         {"["}head=2]CARGO REQUEST[/head]
     { paperwork-separator-logistics }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] NT14-NAME-XXX
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]LOGISTICS OFFICER:[/bold]

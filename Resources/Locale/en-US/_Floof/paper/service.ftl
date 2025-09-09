@@ -6,7 +6,7 @@ paperwork-service-botany-request =
     { paperwork-separator-service }
         {"["}head=2]BOTANY REQUEST[/head]
     { paperwork-separator-service }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]BOTANIST:[/bold]

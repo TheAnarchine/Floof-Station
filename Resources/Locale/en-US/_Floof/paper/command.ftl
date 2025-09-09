@@ -11,7 +11,7 @@ paperwork-command-emergency-personal-recovery =
         {"["}bold]CAPTAIN:[/bold]
         {"["}bold]HEAD OF PERSONNEL:[/bold]
         {"["}bold]HEAD OF SECURITY:[/bold]
-        {"["}bold]LOGISTIC'S OFFICER:[/bold]
+        {"["}bold]LOGISTICS OFFICER:[/bold]
     { paperwork-command-separator }
     Reason for Faxing Central Command:
     Desired Response From Central Command:
@@ -32,7 +32,7 @@ paperwork-command-station-request-for-assistance =
     { paperwork-command-separator }
         {"["}bold]STATION REQUEST FOR ASSISTANCE[/bold]
     { paperwork-command-separator }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]CAPTAIN:[/bold]

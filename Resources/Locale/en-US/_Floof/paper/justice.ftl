@@ -7,7 +7,7 @@ paperwork-justice-pardon-request =
     { paperwork-separator-justice }
         {"["}head=2]PARDON REQUEST[/head]
     { paperwork-separator-justice }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]CAPTAIN:[/bold]
