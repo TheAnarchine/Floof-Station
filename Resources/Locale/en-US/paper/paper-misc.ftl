@@ -4,7 +4,7 @@ book-text-plasma-trap = Heheheheh, no way in hell they're going to get at our st
        - J.
 
 book-text-holoparasite-info = Thanks for choosing our holoparasite package!
-      At cybersun, we pride ourselves on cutting-edge military and industrial technology, and greatly appreciate your contribution to our establishment!
+      At Cybersun, we pride ourselves on cutting-edge military and industrial technology, and greatly appreciate your contribution to our establishment!
       Guardians are helpful and intelligent beings which nest within your body, completely immune to common hazards such as pressure, temperature and even bullets!
       You have purchased the holoparasite package, which contains a holoparasite activator, an instruction booklet, and our softcap merchandise.
       Instructions for use:

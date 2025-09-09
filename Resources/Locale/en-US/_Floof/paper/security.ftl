@@ -75,7 +75,7 @@ paperwork-security-arrest-report =
     \[  ] Self-Defence - Sentence reduction or full pardon.
 
     {"["}color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]
-    {"["}color=gray]This form follows NT space law.[/color]
+    {"["}color=gray]This form follows Solarian space law.[/color]
     {"["}color=gray]Those who abuse granted permission can be fined up to 5000 Spesos.[/color]
     {"["}bold]Warden or Head of Securiy's Signature:[/bold]
     {"["}bold]Attorney's Signature:[/bold]
@@ -102,7 +102,7 @@ paperwork-security-arrest-warrant =
     {"["}color=gray]Warrants are only valid when issued by either the Chief Justice or the Clerk of Court, or in their absence, the Commanding Officer, the Head of Security, or the Warden.[/color]
     {"["}color=#cb0000]This document is not valid unless stamped by at least one of the required personnel.[/color]
 
-    {"["}color=gray]This form follows NT space law.[/color]
+    {"["}color=gray]This form follows Solarian space law.[/color]
     {"["}color=gray]Those who abuse granted permission can be fined up to 5000 Spesos.[/color]
 
     { paperwork-separator-security }
@@ -129,7 +129,7 @@ paperwork-security-department-search-warrant =
     {"["}bold]Warrants are only valid when issued by either the Chief Justice or the Clerk of Court, or in their absence, the Commanding Officer, the Head of Security, or the Warden.[/bold]
     {"["}color=#cb0000]This document is not valid unless stamped by at least one of the required personnel.[/color]
 
-    {"["}color=gray]This form follows NT space law.[/color]
+    {"["}color=gray]This form follows Solarian space law.[/color]
     {"["}color=gray]Those who abuse granted permission can be fined up to 5000 Spesos.[/color]
 
     { paperwork-separator-security }
@@ -186,8 +186,8 @@ paperwork-security-furlough-request =
 
     { paperwork-separator-security }
     {"["}color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
-    This form follows NT Space Law.
-    Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
+    This form follows Solarian Space Law.
+    Those who abuse granted permission can be fined up to 5000 spesos pursuant Solarain Space Law Handbook §16-8.7c[/color]
 
     { paperwork-separator-security }
     {"["}color=red][italic]By signing here, the Inmate agrees to adheare to the conditions listed within this form.[/color][/italic]
@@ -217,7 +217,7 @@ paperwork-security-individual-search-warrant =
     {"["}bold]Warrants are only valid when issued by either the Chief Justice or the Clerk of Court, or in their absence, the Commanding Officer, the Head of Security, or the Warden.[/bold]
     {"["}color=#cb0000]This document is not valid unless stamped by at least one of the required personnel.[/color]
 
-    {"["}color=gray]This form follows NT space law.[/color]
+    {"["}color=gray]This form follows Solarian space law.[/color]
     {"["}color=gray]Those who abuse granted permission can be fined up to 5000 Spesos.[/color]
 
     { paperwork-separator-security }
@@ -253,7 +253,7 @@ paperwork-security-visitation-request =
     { paperwork-separator-security }
         {"["}head=2]VISITATION REQUEST[/head]
     { paperwork-separator-security }
-    This document, if approved, allows the one time visitation between an inmate and an employee of NanoTressen stations. Visitor agrees to be searched before entering the vistation area. The inmate also agrees to be strip searched after the visitation has concluded.
+    This document, if approved, allows the one time visitation between an inmate and an employee of Floof Sector LLC stations. Visitor agrees to be searched before entering the vistation area. The inmate also agrees to be strip searched after the visitation has concluded.
     {"["}color=red][bold]This document must be approved and stamped by the Warden, and signed by both the visitor and inmate to be valid![/bold][/color]
 
     Inmate: [color=#002AAF]Name Here[/color]
@@ -274,8 +274,8 @@ paperwork-security-visitation-request =
 
     { paperwork-separator-security }
     {"["}color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
-    This form follows NT Space Law.
-    Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
+    This form follows Solarian Space Law.
+    Those who abuse granted permission can be fined up to 5000 spesos pursuant Solarian Space Law Handbook §16-8.7c[/color]
     { paperwork-separator-security }
     {"["}color=red][italic]By signing here, the visitor and Inmate agree to adheare to the conditions listed within this form.[/color][/italic]
     {"["}bold]Requesting Visitor's Signature:[/bold]
