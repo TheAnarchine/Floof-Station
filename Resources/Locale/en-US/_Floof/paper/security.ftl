@@ -1,4 +1,4 @@
-paperwork-header-security = {"["}color=#cb0000] ◀[bold]FLLC[/bold]▶ [head=3][bold]SECURITY[/bold][/head][/color]
+paperwork-header-security = {"["}color=#cb0000] ◀[bold]FS[/bold]▶ [head=3][bold]SECURITY[/bold][/head][/color]
 paperwork-separator-security = {"["}color=#cb0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-security-arrest-report =

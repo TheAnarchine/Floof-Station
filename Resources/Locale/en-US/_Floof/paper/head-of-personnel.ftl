@@ -1,4 +1,4 @@
-paperwork-header-hop = {"["}color=#1b67a5] ◀[bold]FLLC[/bold]▶ [head=3][bold]HEAD OF PERSONNEL[/bold][/head][/color]
+paperwork-header-hop = {"["}color=#1b67a5] ◀[bold]FS[/bold]▶ [head=3][bold]HEAD OF PERSONNEL[/bold][/head][/color]
 paperwork-separator-hop = {"["}color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-hop-access-permit =

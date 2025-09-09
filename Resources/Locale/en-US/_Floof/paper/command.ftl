@@ -1,4 +1,4 @@
-paperwork-command-header = {"["}color=#009100]◀[bold]FLLC[/bold]▶ [head=3][bold]Central Command[/bold][/head][/color]
+paperwork-command-header = {"["}color=#009100]◀[bold]FS[/bold]▶ [head=3][bold]Central Command[/bold][/head][/color]
 paperwork-command-separator = {"["}color=#009100]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-command-emergency-personal-recovery =

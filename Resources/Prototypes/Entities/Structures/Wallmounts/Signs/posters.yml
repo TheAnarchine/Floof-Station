@@ -549,8 +549,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCybersun600
-  name: "Cybersun: 500 Years Commemorative Poster"
-  description: "An artistic poster commemorating 500 years of continual business for Cybersun Industries." #changed for lore continuity
+  name: "Cybersun: 600 Years Commemorative Poster"
+  description: "An artistic poster commemorating 600 years of continual business for Cybersun Industries." #changed for lore continuity
   components:
     - type: Sprite
       state: poster58_contraband

@@ -1,4 +1,4 @@
-paperwork-header-logistics = {"["}color=#b18644] ◀[bold]FLLC[/bold]▶ [head=3][bold]LOGISTICS [/bold][/color][/head]
+paperwork-header-logistics = {"["}color=#b18644] ◀[bold]FS[/bold]▶ [head=3][bold]LOGISTICS [/bold][/color][/head]
 paperwork-separator-logistics = {"["}color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 paperwork-logistics-cargo-request =
