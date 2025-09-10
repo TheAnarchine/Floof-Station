@@ -35,7 +35,7 @@ paperwork-separator-epistemics-production-request =
     { paperwork-separator-epistemics }
         {"["}head=2]PRODUCTION REQUEST[/head]
     { paperwork-separator-epistemics }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]STATION:[/bold] {$stationName}
         {"["}bold]SHIFT TIME:[/bold] XX:XX
         {"["}bold]MYSTAGOGUE:[/bold]
@@ -56,7 +56,7 @@ paperwork-separator-epistemics-psionic-self-identification =
     { paperwork-separator-epistemics }
         {"["}head=2]PSIONIC SELF-IDENTIFICATION[/head]
     { paperwork-separator-epistemics }
-        {"["}bold]SECTOR:[/bold] Floof Station
+        {"["}bold]SECTOR:[/bold] Floof Sector
         {"["}bold]NAME:[/bold]
         {"["}bold]PLACE OF ORIGIN:[/bold]
         {"["}bold]DATE OF BIRTH:[/bold]
